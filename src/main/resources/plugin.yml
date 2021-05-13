@@ -1,0 +1,8 @@
+name: Mechanika
+version: ${project.version}
+main: de.polygondev.mechanika.Mechanika
+api-version: 1.16
+depend: [ InventoryApi ]
+softdepend: [ Vault, PlaceholderApi ]
+authors: [ ChiAkuma ]
+description: Mechanika adds gates and so on
